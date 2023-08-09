@@ -6,3 +6,11 @@ print ("Hello World!"):
 - ไอซ์
 - โดนัท
 - วิน
+
+void OnTriggerEnter2D(collision = Collision2D)
+{
+    if(this.GameObject.tag == "Enemy")
+    {
+        Destroy.this.GameObject;
+    }
+}
