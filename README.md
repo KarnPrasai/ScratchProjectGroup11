@@ -1,16 +1,12 @@
 # ScratchProjectGroup11
 
-print ("Hello World!"):
+Project Name : A or F
+Type : Game
+Genre : Casual , Action
+Theme : Chiang-Mai University , Homework
 
-สมาชิกในกลุ่ม
-- ไอซ์
-- โดนัท
-- วิน
-
-void OnTriggerEnter2D(collision = Collision2D)
-{
-    if(this.GameObject.tag == "Enemy")
-    {
-        Destroy.this.GameObject;
-    }
-}
+Developers team
+This project is a university project for freshmen.
+- Punnatat Nginngam NGIRNNGAM - Project Manager & Game Designer & Graphic Designer & Tester
+- Karn Prasai - Programmer & Tester
+- Chanachai Chamnanmo  - Tester & Game Designer
